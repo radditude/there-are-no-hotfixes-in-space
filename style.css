@@ -7,9 +7,21 @@ h1, h2, h3 {
 	font-family: 'Open Sans';
 	text-transform: uppercase;
 }
-.remark-slide-content h1 { font-size: 3em; }
-.remark-slide-content h2 { font-size: 1.8em; }
-.remark-slide-content h3 { font-size: 1.3em; }
+h1 {
+	letter-spacing: .15em;
+}
+img {
+	max-height: 600px;
+}
+.remark-slide-content h1 {
+	font-size: 3em;
+}
+.remark-slide-content h2 {
+	font-size: 1.7em;
+}
+.remark-slide-content h3 {
+	font-size: 1.3em;
+}
 li {
 	line-height: 1.7em; 
 }
@@ -19,6 +31,9 @@ li {
 }
 .inverse h1, .inverse h2 {
 	color: #f3f3f3;
+}
+.inverse a {
+	color: #777872;
 }
 /* Two-column layout */
 .left-column {
