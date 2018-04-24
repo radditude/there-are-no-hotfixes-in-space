@@ -1,0 +1,15 @@
+{
+  "name": "there-are-no-hotfixes-in-space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slides.md",
+  "dependencies": {
+    "remarker": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
